@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Simple Todo List
 
 The Meteor Tutorial app.
@@ -9,3 +10,6 @@ Learn how to build this app by following the [Meteor Tutorial](https://www.meteo
 Read more about building apps with Meteor in the [Meteor Guide](http://guide.meteor.com).
 
 ![screenshot](screenshot.png)
+=======
+# toDoList_Meteor-React
+>>>>>>> 570cf4c550e9f3c58b8ea6d5f11b1abb16d01ab6
